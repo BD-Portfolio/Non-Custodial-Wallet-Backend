@@ -12,4 +12,4 @@ It contains functions to generate new accounts using mnemonic, import wallet usi
 
 - Run `npm install` to install all dependencies
 
-- Run `npx start` to compile all the contracts
+- Run `npm start` to compile all the contracts
